@@ -2,7 +2,7 @@
   <img src="https://github.com/ArturMaia/Acai/blob/main/Ver-O-Peso.jpg" alt="Malha globo" style="width: 200px; border-radius: 10px;">
 </p>
 
-# Mapa de Produção de Açaí no Brasil
+# Produção de Açaí no Brasil
 
 Este projeto tem como objetivo analisar e visualizar a produção de açaí no Brasil, levando em consideração a quantidade produzida por estado, as condições climáticas (precipitação) e os dados de mercado relacionados à área de colheita e rendimento médio ao longo dos anos. Utilizando R, este código integra diferentes fontes de dados geoespaciais e climáticos para gerar mapas interativos e gráficos informativos, proporcionando uma visão detalhada sobre a produção e o mercado do açaí.
 
