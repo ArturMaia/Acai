@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ArturMaia/Acai/blob/main/Ver-O-Peso.jpg" alt="Malha globo" style="width: 200px; border-radius: 10px;">
+  <img src="https://github.com/ArturMaia/Acai/blob/main/Ver-O-Peso.jpg" alt="açaí" style="width: 200px; border-radius: 10px;">
 </p>
 
 # Produção de Açaí no Brasil
